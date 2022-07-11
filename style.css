@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(75, 59, 176);
+}
+#card{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(75, 59, 176);
+    width: 450px;
+    height: 200px;
+    text-align: center;
+    border: 1px solid white;
+}
+#data{
+    text-align: center;
+    font-weight: bolder;
+    line-height: 12px;
+}
+#button1{
+    background-color: black;
+    color: white;
+    width: 150px;
+    border: 1px solid white;
+}
